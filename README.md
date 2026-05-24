@@ -116,3 +116,6 @@ Admins can manage doctors, patients, appointments, and feedback records.
 5. 5. Import the SQL file into phpMyAdmin
 6. Open browser and run:
 7. http://localhost/project-folder-name
+
+   here is my demo video link :
+   https://www.linkedin.com/posts/aliza-noreen-9b994a2a0_webdevelopment-php-mysql-ugcPost-7463811229732515842-JgOs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjBOR0BRnXJMVgbTqp2JitZevdaGseJNpA 
